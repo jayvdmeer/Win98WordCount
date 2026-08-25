@@ -6,7 +6,7 @@ A simple character and word counter for everyday use.
 
 ## Download
 
-[Download WordCount 98](https://github.com/YOUR-USERNAME/Win98WordCount/releases/latest)
+[Download WordCount 98](https://github.com/Jayvdmeer/Win98WordCount/releases/latest)
 
 No install needed. Just run `Win98WordCount.exe`.
 
