@@ -16,7 +16,6 @@ No install needed. Just run `Win98WordCount.exe`.
 - Character count (with and without spaces)
 - Word count
 - Line count
-- Windows 98 style interface
 
 ## Requirements
 
