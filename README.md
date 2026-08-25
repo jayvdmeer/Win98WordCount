@@ -2,7 +2,7 @@
 
 A simple character and word counter for everyday use.
 
-![WordCount 98](screenshots/main.png)
+![WordCount 98](Main.png)
 
 ## Download
 
