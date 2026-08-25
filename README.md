@@ -21,6 +21,11 @@ No install needed. Just run `Win98WordCount.exe`.
 
 Windows Vista or later.
 
+## Note
+Windows may show a SmartScreen warning since this app isn't code-signed.
+Click "More info" → "Run anyway" to launch it. This is expected for
+small unsigned apps and does not mean the app is unsafe.
+
 ## License
 
 See [LICENSE](LICENSE).
