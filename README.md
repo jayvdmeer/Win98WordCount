@@ -19,7 +19,8 @@ No install needed. Just run `Win98WordCount.exe`.
 
 ## Requirements
 
-Windows Vista or later.
+Windows 7 or later.
+(Tested on Windows 8, Windows 10, Windows 11)
 
 ## Note
 Windows may show a SmartScreen warning since this app isn't code-signed.
